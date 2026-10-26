@@ -68,6 +68,9 @@ Visit the production website:
 ## Project Screenshots
 
 Screenshots of the live storefront, product pages and responsive interfaces are included to demonstrate the application.
+<img width="1906" height="762" alt="image" src="https://github.com/user-attachments/assets/7389751d-2a20-48b7-b725-1aa35ab9bc39" />
+<img width="1592" height="717" alt="image" src="https://github.com/user-attachments/assets/33931faf-64d1-48da-943c-5585f15d2011" />
+<img width="1285" height="857" alt="image" src="https://github.com/user-attachments/assets/e78fac19-2075-4c8d-9517-6678eae2967f" />
 
 ## Project Status
 
