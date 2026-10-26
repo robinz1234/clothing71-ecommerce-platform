@@ -1,0 +1,40 @@
+# Dependencies and build output
+node_modules/
+.next/
+out/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*service-account*.json
+
+# Local tooling
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Logs and operating system files
+*.log
+.DS_Store
+Thumbs.db
+
+# Deployment archives and backups
+*.zip
+*.tar
+*.tar.gz
+*.dump
+*.backup
+*-backup-*/
+
+# Supabase local state
+supabase/.temp/
+supabase/.branches/
+supabase/.profiles/
